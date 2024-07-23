@@ -33,7 +33,7 @@ const useGeneratePodcast = ({
 
     if (!voicePrompt) {
       toast({
-        title: "Please provide a voiceType to generate a podcast",
+        title: "Proporcione un tipo de voz para generar un podcast",
       });
       return setIsGenerating(false);
     }
@@ -57,12 +57,12 @@ const useGeneratePodcast = ({
       setAudio(audioUrl!);
       setIsGenerating(false);
       toast({
-        title: "Podcast generated successfully",
+        title: "Podcast generado con éxito",
       });
     } catch (error) {
-      console.log("Error generating podcast", error);
+      console.log("Error generando el podcast", error);
       toast({
-        title: "Error creating a podcast",
+        title: "Error, no se pudo crear el podcast",
         variant: "destructive",
       });
       setIsGenerating(false);
