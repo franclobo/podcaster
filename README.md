@@ -36,6 +36,14 @@
 
 **Podcaster** genera tu podcast usando IA.
 
+![image](https://github.com/user-attachments/assets/ab2e1b64-ceda-4c2e-9fc4-a71583095c7f)
+
+![image](https://github.com/user-attachments/assets/19efaa91-8b54-4644-8fa9-b55dba6ea8f5)
+
+![image](https://github.com/user-attachments/assets/d55b2c2a-4c25-4c58-9ab9-73b45e05ce2d)
+
+![image](https://github.com/user-attachments/assets/08c4fb8c-45ea-46b0-9ed9-a69ef807f6af)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
